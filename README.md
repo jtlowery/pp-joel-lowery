@@ -39,4 +39,4 @@ Feel free to use or not use any of the vars.
 
 This is the variable we want to predict: did the house sell or not?
 
-y - if the house sold
+- y - if the house sold
