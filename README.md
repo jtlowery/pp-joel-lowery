@@ -8,11 +8,13 @@ This can be a quick and dirty model.
 
 Approximately 5% of the rows have y=1, so the dataset is unbalanced.
 
-## Identifier
+# Data Description for Columns
+
+### Identifier
 
 - PID - property ID (do not use in the model)
 
-## Input vars
+### Input vars
 
 Feel free to use or not use any of the vars.
 
@@ -33,7 +35,7 @@ Feel free to use or not use any of the vars.
 - var_x
 - vacant
 
-## Response variable
+### Response variable
 
 This is the variable we want to predict: did the house sell or not?
 
